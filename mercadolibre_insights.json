@@ -1,0 +1,306 @@
+{
+    "price_analysis": {
+        "price_range": {
+            "min": 849.0,
+            "max": 101010.0,
+            "avg": 16740.26530612245
+        },
+        "price_segments": {
+            "budget": 28,
+            "mid_range": 6,
+            "premium": 15
+        }
+    },
+    "feature_analysis": {
+        "material": 1,
+        "size": 35,
+        "color": 9,
+        "brand": 31,
+        "condition": 7,
+        "warranty": 19,
+        "shipping": 36,
+        "package": 22,
+        "quality": 11,
+        "design": 16,
+        "comfort": 3,
+        "safety": 1,
+        "maintenance": 1,
+        "compatibility": 0,
+        "sustainability": 0
+    },
+    "sentiment_analysis": {
+        "overall": {
+            "reviews": {
+                "sentiment": "positive",
+                "polarity": 1.0,
+                "subjectivity": 0.01592920353982301,
+                "confidence": 0.9,
+                "key_phrases": [
+                    "una delicia. fresquitos. riquísimas!. exelente calidad relación precio calidad. excelente relación",
+                    "comer a cualquier hora 😋🤤. super lleno cada paquete 😋. f.",
+                    "delicia. fresquitos. riquísimas!. de diez!!!!. excelente compra. estban buenisimas me las",
+                    "maravilla maravillosa de la genialidad genial de los sabores saboreados sabrosos"
+                ],
+                "emotions": {
+                    "joy": 0.6382978723404255,
+                    "trust": 0.19148936170212766,
+                    "fear": 0.0,
+                    "surprise": 0.0,
+                    "sadness": 0.0,
+                    "disgust": 0.0,
+                    "anger": 0.0,
+                    "anticipation": 0.1702127659574468
+                },
+                "dominant_emotion": "joy",
+                "emotional_intensity": 0.9999999999999999,
+                "context_sentiment": {
+                    "product_quality": {
+                        "sentiment": "positive",
+                        "polarity": 1.2,
+                        "confidence": 0.1
+                    },
+                    "price_value": {
+                        "sentiment": "neutral",
+                        "polarity": 0.0,
+                        "confidence": 0.0
+                    }
+                },
+                "sentiment_trend": "stable",
+                "contextual_phrases": [
+                    {
+                        "phrase": "una delicia. fresquitos. riquísimas!. exelente calidad relación precio calidad. excelente relación",
+                        "sentiment_context": [
+                            "calidad",
+                            "excelente"
+                        ],
+                        "position": 0.5823008849557522
+                    },
+                    {
+                        "phrase": "comer a cualquier hora 😋🤤. super lleno cada paquete 😋. f.",
+                        "sentiment_context": [
+                            "super"
+                        ],
+                        "position": 0.511504424778761
+                    },
+                    {
+                        "phrase": "delicia. fresquitos. riquísimas!. de diez!!!!. excelente compra. estban buenisimas me las",
+                        "sentiment_context": [
+                            "excelente"
+                        ],
+                        "position": 0.4
+                    },
+                    {
+                        "phrase": "maravilla maravillosa de la genialidad genial de los sabores saboreados sabrosos",
+                        "sentiment_context": [
+                            "genial"
+                        ],
+                        "position": 0.43716814159292033
+                    }
+                ]
+            }
+        },
+        "by_category": {
+            "reviews": {
+                "quality": {
+                    "sentiment": "positive",
+                    "polarity": 1.0,
+                    "subjectivity": 0.023255813953488372,
+                    "confidence": 0.2,
+                    "key_phrases": [
+                        "exelente calidad relación precio calidad. excelente relación precio y calidad. excelente",
+                        "exelente calidad relación precio calidad. excelente relación"
+                    ],
+                    "emotions": {
+                        "joy": 1.0,
+                        "trust": 0.0,
+                        "fear": 0.0,
+                        "surprise": 0.0,
+                        "sadness": 0.0,
+                        "disgust": 0.0,
+                        "anger": 0.0,
+                        "anticipation": 0.0
+                    },
+                    "dominant_emotion": "joy",
+                    "emotional_intensity": 1.0,
+                    "context_sentiment": {
+                        "product_quality": {
+                            "sentiment": "positive",
+                            "polarity": 1.2,
+                            "confidence": 0.1
+                        },
+                        "price_value": {
+                            "sentiment": "neutral",
+                            "polarity": 0.0,
+                            "confidence": 0.0
+                        }
+                    },
+                    "sentiment_trend": "stable",
+                    "contextual_phrases": [
+                        {
+                            "phrase": "exelente calidad relación precio calidad. excelente relación precio y calidad. excelente",
+                            "sentiment_context": [
+                                "calidad",
+                                "excelente",
+                                "excelente"
+                            ],
+                            "position": 0.05813953488372093
+                        },
+                        {
+                            "phrase": "exelente calidad relación precio calidad. excelente relación",
+                            "sentiment_context": [
+                                "calidad",
+                                "excelente"
+                            ],
+                            "position": 0.011627906976744186
+                        }
+                    ]
+                },
+                "performance": {
+                    "sentiment": "neutral",
+                    "polarity": 0.0,
+                    "subjectivity": 0.0,
+                    "confidence": 0.0,
+                    "key_phrases": [],
+                    "emotions": {},
+                    "dominant_emotion": "neutral",
+                    "emotional_intensity": 0.0,
+                    "context_sentiment": {},
+                    "sentiment_trend": "neutral",
+                    "contextual_phrases": []
+                },
+                "value": {
+                    "sentiment": "positive",
+                    "polarity": 1.0,
+                    "subjectivity": 0.02531645569620253,
+                    "confidence": 0.2,
+                    "key_phrases": [
+                        "exelente calidad relación precio calidad. excelente relación precio y calidad. excelente",
+                        "buen producto, buen precio. exelente calidad relación precio calidad. excelente relación"
+                    ],
+                    "emotions": {
+                        "joy": 1.0,
+                        "trust": 0.0,
+                        "fear": 0.0,
+                        "surprise": 0.0,
+                        "sadness": 0.0,
+                        "disgust": 0.0,
+                        "anger": 0.0,
+                        "anticipation": 0.0
+                    },
+                    "dominant_emotion": "joy",
+                    "emotional_intensity": 1.0,
+                    "context_sentiment": {
+                        "product_quality": {
+                            "sentiment": "positive",
+                            "polarity": 1.2,
+                            "confidence": 0.1
+                        },
+                        "price_value": {
+                            "sentiment": "neutral",
+                            "polarity": 0.0,
+                            "confidence": 0.0
+                        }
+                    },
+                    "sentiment_trend": "neutral",
+                    "contextual_phrases": [
+                        {
+                            "phrase": "exelente calidad relación precio calidad. excelente relación precio y calidad. excelente",
+                            "sentiment_context": [
+                                "calidad",
+                                "excelente",
+                                "excelente"
+                            ],
+                            "position": 0.6835443037974683
+                        },
+                        {
+                            "phrase": "buen producto, buen precio. exelente calidad relación precio calidad. excelente relación",
+                            "sentiment_context": [
+                                "calidad",
+                                "excelente"
+                            ],
+                            "position": 0.6329113924050633
+                        }
+                    ]
+                },
+                "usability": {
+                    "sentiment": "neutral",
+                    "polarity": 0.0,
+                    "subjectivity": 0.0,
+                    "confidence": 0.0,
+                    "key_phrases": [],
+                    "emotions": {},
+                    "dominant_emotion": "neutral",
+                    "emotional_intensity": 0.0,
+                    "context_sentiment": {},
+                    "sentiment_trend": "neutral",
+                    "contextual_phrases": []
+                }
+            }
+        }
+    },
+    "customer_feedback": {
+        "reviews": {
+            "satisfaction_levels": {
+                "very_satisfied": 12,
+                "satisfied": 3,
+                "neutral": 0,
+                "dissatisfied": 0,
+                "very_dissatisfied": 0
+            },
+            "common_themes": {
+                "price": 9,
+                "quality": 7
+            },
+            "specific_issues": [],
+            "praise_points": [
+                "Excelente compra",
+                "Todo perfecto",
+                "Una maravilla maravillosa de la genialidad genial de los sabores saboreados sabrosos y riquísimos",
+                "Excelente 👌",
+                "Todo excelente"
+            ],
+            "suggestions": [
+                "Son muy ricos, pero deberían poner un precio acorde al gramaje"
+            ]
+        }
+    },
+    "competitive_analysis": {
+        "category_distribution": {
+            "Alimentos y Bebidas > Almacén > Galletitas > Galletita": 7,
+            "Alimentos y Bebidas > Almacén > Galletitas": 29,
+            "Alimentos y Bebidas > Almacén > Galletitas > Don Satur": 1,
+            "Alimentos y Bebidas > Almacén > Galletitas > Pepas Don Satur": 1,
+            "Alimentos y Bebidas > Almacén > Galletitas > Caja Don Satur": 1,
+            "Alimentos y Bebidas > Almacén > Galletitas > Magdalenas Don Satur": 7,
+            "Alimentos y Bebidas > Almacén > Galletitas > Galletitas Sin Tacc": 1
+        },
+        "price_positioning": {
+            "market_average": 16740.26530612245,
+            "price_competitiveness": "high"
+        }
+    },
+    "marketing_recommendations": {
+        "key_selling_points": [
+            "material",
+            "size",
+            "color",
+            "brand",
+            "condition",
+            "warranty",
+            "shipping",
+            "package",
+            "quality",
+            "design",
+            "comfort",
+            "safety",
+            "maintenance"
+        ],
+        "target_audience": "budget",
+        "pricing_strategy": "competitive",
+        "feature_highlights": [
+            "quality",
+            "value"
+        ],
+        "improvement_areas": []
+    }
+}
