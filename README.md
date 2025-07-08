@@ -55,7 +55,7 @@ Required packages:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mercadolibre-scraper.git
+git clone https://github.com/wald16/mercadolibre-scraper.git
 cd mercadolibre-scraper
 ```
 
